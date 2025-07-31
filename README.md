@@ -8,5 +8,7 @@ Carl's Car Wash is the most famous car wash in the Super Simple universe.  One c
 ## Sources
 
 Primary Source: https://supersimple.com/carls-car-wash/
+
 Carl's Car Wash on YouTube: https://www.youtube.com/@CarlsCarWash
+
 Super Simple's Website: https://supersimple.com/
